@@ -1,0 +1,15 @@
+{
+  "id": "HildegunstExtras",
+  "name": "Hildegunst's Extras",
+  "author": ["Javiceta"],
+  "description": "My first mod. For fun and learning purposes",
+  "prefix": "hilde",
+  "main_file": "hildeextras.lua",
+  "version": "1.0.a",
+  "priority": 0,
+  "badge_colour": "31ceac",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0826b)"
+  ]
+}
